@@ -1,0 +1,20 @@
+.Loading {
+  text-align: center;
+  align-items: center;
+}
+
+.articles {
+  /* border: 1px solid black; */
+  border-radius: 8px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+}
+
+
+.img-article{
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
